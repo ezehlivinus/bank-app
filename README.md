@@ -1,5 +1,5 @@
 # bank-app
-This is a script that suppose to be command line app to simulate banking basic transactions:
+This is a script that suppose to be command line app that simulate basic banking transactions:
 <br>
 <ul>
     <li>Create Account</li>
@@ -24,17 +24,7 @@ The intention was to use command line library for the work; however, no command 
 </u>
 
 ## State of the app
-The app can olny create an account for now<br>
-<ul>
-    <li><mark>Create Account</mark></li>
-    <li>Make Transaction</li>
-    <ul>
-    <li>Check Balance</li>
-    <li>Withdraw</li>
-    <li>Deposit</li>
-    <li>Tranfer fund</li>
-    </ul>
-</ul>
+The app can only create an account for now<br>
 
 There other script that has been written on module part of the app but not yet functional with the app
 
