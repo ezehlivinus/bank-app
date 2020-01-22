@@ -26,7 +26,7 @@ The intention was to use command line library for the work; however, no command 
 ## State of the app
 The app can only create an account for now<br>
 
-There other script that has been written on module part of the app but not yet functional with the app
+There exist other scripts, as classes,functions, and/or variables, that has been written on module part of the app but not yet functional with the app
 
 ## Author
 <a href="https://github.com/ezehlivinus">Ezeh Livinus</a>
