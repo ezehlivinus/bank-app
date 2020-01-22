@@ -37,3 +37,6 @@ The app can olny create an account for now<br>
 </ul>
 
 There other script that has been written on module part of the app but not yet functional with the app
+
+## Author
+<a href="https://github.com/ezehlivinus">Ezeh Livinus</a>
